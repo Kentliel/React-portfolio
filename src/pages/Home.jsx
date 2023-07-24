@@ -1,13 +1,13 @@
 import React from 'react'
 import Navbar from '../component/Navbar'
-import Body from '../component/Body'
+import BodyHome from '../component/BodyHome'
 import FooterTecnolog from '../component/FooterTecnolog'
 
 const Home = () => {
   return (
     <div>
         <Navbar />
-        <Body />
+        <BodyHome />
         <FooterTecnolog />
     </div>
   )
