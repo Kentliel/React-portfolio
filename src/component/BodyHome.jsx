@@ -10,7 +10,7 @@ const Body = () => {
                 <section className='flex flex-col items-center '>
                     <h1 className='text-7xl text-center font-bold tracking-[0.3px] text-white font-Playfair Display mr-[405px]'>I’m Kent Carrero.</h1>
                     <h2 className='text-xl font-semibold leading-normal text-zinc-500 font-Poppins mr-[460px] animate-bounce'>Front End Developer</h2>
-                    <img className='mr-[480.5px] opacity-70' src="https://i.imgur.com/CmaQX23.png" alt="fotoPortada" />
+                    <img className='mr-[480.5px] opacity-70 ' src="https://i.imgur.com/CmaQX23.png" alt="fotoPortada" />
                 </section>
             </article>
         </div>

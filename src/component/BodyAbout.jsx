@@ -7,7 +7,7 @@ const BodyAbout = () => {
         <div className='bg-gradient-to-r from-amber-800 via-indigo-950 to-stone-800 flex flex-col h-[100vh] items-center'>
             <div className='flex justify-center  '>
                 <div className=''>
-                    <Link to={"https://www.canva.com/design/DAFnA4FxvaI/59gbUAupHz4SNd8kpz3F0Q/edit?utm_content=DAFnA4FxvaI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"}><img className='w-[493px] h-[338px] mt-[98px] ml-[118px] mr-[117px] mb-[21px] rounded-md hover:bg-[url("https://i.imgur.com/guEVkEQ.png")]' src="https://i.imgur.com/TE6xXoX.png" alt="FotoAbout" /></Link>
+                    <Link to={"https://www.canva.com/design/DAFnA4FxvaI/59gbUAupHz4SNd8kpz3F0Q/edit?utm_content=DAFnA4FxvaI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"}><img className='w-[493px] h-[338px] mt-[98px] ml-[118px] mr-[117px] mb-[21px] rounded-md transition duration-300 ease-in-out hover:scale-110 hover:shadow-lg' src="https://i.imgur.com/fmnnVEW.png" alt="FotoAbout" /></Link>
                 </div>
                 <div className='flex flex-col gap-[20px]'>
                     <h1 className='font- Playfair-Display text-[50px] text-white font-bold leading-[90px] tracking-[0.3px] w-[547px] mt-[207px] mr-[165px] '>FRONT END DEVELOPER IN SPAIN</h1>

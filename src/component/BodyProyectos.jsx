@@ -11,32 +11,32 @@ const BodyProyectos = () => {
                     <p className='text-xl font-medium leading-9 tracking-[0.3px] w-[585px] h-[216px] mb-[40px] text-transparent bg-clip-text bg-gradient-to-r from-slate-500 to-yellow-100'>Esto es una pequeña muestra de los proyectos realizados, solo con darle click los llevara al repositorio de github donde veran el codigo!</p>
                     <section className='flex'>
                         <div className='flex flex-col mr-[111px]'>
-                            <h2 className='text-start font-Playfair Display text-[50px] font-normal leading-normal text-white w-[105px] h-[67px]'>250+</h2>
+                            <h2 className='text-start font-Playfair Display text-[50px] font-normal leading-normal text-white w-[105px] h-[67px]'>15+</h2>
                             <p className='text-start font-Poppins text-xl font-bold leading-normal w-[192px] h-[30px] text-white'>Project Completed</p>
                         </div>
                         <div className='flex flex-col'>
-                            <h2 className='text-start font-Playfair Display text-[50px] font-normal leading-normal text-white w-[105px] h-[67px]'>249+</h2>
-                            <p className='text-start font-Poppins text-xl font-bold leading-normal w-[192px] h-[30px] text-white'>Happy Clients</p>
+                            <h2 className='text-start font-Playfair Display text-[50px] font-normal leading-normal text-white w-[105px] h-[67px]'>+600/h</h2>
+                            <p className='text-start font-Poppins text-xl font-bold leading-normal w-[192px] h-[30px] text-white'>Working</p>
                         </div>
                     </section>
                 </article>
                 <article className='flex flex-col mr-[121px] mt-[97px] gap-[20px] mb-[100px]'>
                     <section className='flex gap-2 w-[490px] h-[176px] rounded-[25px] justify-center items-center bg-[#8C8FA0] hover:bg-[#E9EDF0]'>
-                        <Link to={"https://github.com/Kentliel/React-Caf-de-Altura"}><img className='w-[90px] h-[90px] rounded overflow-scroll' src="https://i.imgur.com/5Uyp9I7.png" alt="cafeDeAltura" /></Link>
+                        <Link to={"https://github.com/Kentliel/React-Caf-de-Altura"}><img className='w-[90px] h-[90px] rounded overflow-scroll transition duration-300 ease-in-out hover:scale-110 hover:shadow-lg' src="https://i.imgur.com/OTXEdIB.png" alt="cafeDeAltura" /></Link>
                         <Link to={"https://github.com/Kentliel/React-Caf-de-Altura"}><div className='flex flex-col justify-center'>
                             <h3 className='font-Playfair Display text-3xl font-bold leading-normal tracking-[0.3px]'>High Altitude Coffee</h3>
                             <p className='font-Poppins text-xl font-medium leading-normal tracking-[0.3px]'>React</p>
                         </div></Link>
                     </section>
                     <section className='flex gap-2 w-[490px] h-[176px] rounded-[25px] justify-center items-center bg-[#8C8FA0] hover:bg-[#E9EDF0]'>
-                        <Link to={"https://github.com/Kentliel/React-Countries"}><img className='w-[90px] h-[90px] rounded overflow-scroll' src="https://i.imgur.com/bHJgnjW.png" alt="laptopGreen" /></Link>
+                        <Link to={"https://github.com/Kentliel/React-Countries"}><img className='w-[90px] h-[90px] rounded overflow-scroll transition duration-300 ease-in-out hover:scale-110 hover:shadow-lg' src="https://i.imgur.com/mfDYjqg.jpg" alt="countriesFlags" /></Link>
                         <Link to={"https://github.com/Kentliel/React-Countries"}><div className='flex flex-col justify-center'>
                             <h3 className='font-Playfair Display text-3xl font-bold leading-normal tracking-[0.3px]'>Countries Wiki</h3>
                             <p className='font-Poppins text-xl font-medium leading-normal tracking-[0.3px]'>React</p>
                         </div></Link>
                     </section>
                     <section className='flex gap-2 w-[490px] h-[176px] rounded-[25px] justify-center items-center bg-[#8C8FA0] hover:bg-[#E9EDF0]'>
-                        <Link to={"https://github.com/Kentliel/React-Context-Exercise2"}><img className='w-[90px] h-[90px] rounded overflow-scroll' src="https://i.imgur.com/rY5TlIg.png" alt="personasOrange" /></Link>
+                        <Link to={"https://github.com/Kentliel/React-Context-Exercise2"}><img className='w-[90px] h-[90px] rounded overflow-scroll transition duration-300 ease-in-out hover:scale-110 hover:shadow-lg' src="https://i.imgur.com/mxcTTof.png" alt="pokemonApp" /></Link>
                         <Link to={"https://github.com/Kentliel/React-Context-Exercise2"}><div className='flex flex-col justify-center'>
                             <h3 className='font-Playfair Display text-3xl font-bold leading-normal tracking-[0.3px]'>Pokemon App</h3>
                             <p className='font-Poppins text-xl font-medium leading-normal tracking-[0.3px]'>React</p>
