@@ -22,22 +22,22 @@ const BodyProyectos = () => {
                 </article>
                 <article className='flex flex-col mr-[121px] mt-[97px] gap-[20px] mb-[100px]'>
                     <section className='flex gap-2 w-[490px] h-[176px] rounded-[25px] justify-center items-center bg-[#8C8FA0] hover:bg-[#E9EDF0]'>
-                        <Link to={"https://github.com/Kentliel/React-Caf-de-Altura"}><img className='w-[90px] h-[90px] rounded overflow-scroll transition duration-300 ease-in-out hover:scale-110 hover:shadow-lg' src="https://i.imgur.com/OTXEdIB.png" alt="cafeDeAltura" /></Link>
-                        <Link to={"https://github.com/Kentliel/React-Caf-de-Altura"}><div className='flex flex-col justify-center'>
+                        <Link to={"https://github.com/Kentliel/React-Caf-de-Altura"} target='_blank'><img className='w-[90px] h-[90px] rounded overflow-scroll transition duration-300 ease-in-out hover:scale-110 hover:shadow-lg' src="https://i.imgur.com/OTXEdIB.png" alt="cafeDeAltura" /></Link>
+                        <Link to={"https://github.com/Kentliel/React-Caf-de-Altura"} target='_blank'><div className='flex flex-col justify-center'>
                             <h3 className='font-Playfair Display text-3xl font-bold leading-normal tracking-[0.3px]'>High Altitude Coffee</h3>
                             <p className='font-Poppins text-xl font-medium leading-normal tracking-[0.3px]'>React</p>
                         </div></Link>
                     </section>
                     <section className='flex gap-2 w-[490px] h-[176px] rounded-[25px] justify-center items-center bg-[#8C8FA0] hover:bg-[#E9EDF0]'>
-                        <Link to={"https://github.com/Kentliel/React-Countries"}><img className='w-[90px] h-[90px] rounded overflow-scroll transition duration-300 ease-in-out hover:scale-110 hover:shadow-lg' src="https://i.imgur.com/mfDYjqg.jpg" alt="countriesFlags" /></Link>
-                        <Link to={"https://github.com/Kentliel/React-Countries"}><div className='flex flex-col justify-center'>
+                        <Link to={"https://github.com/Kentliel/React-Countries"} target='_blank'><img className='w-[90px] h-[90px] rounded overflow-scroll transition duration-300 ease-in-out hover:scale-110 hover:shadow-lg' src="https://i.imgur.com/mfDYjqg.jpg" alt="countriesFlags" /></Link>
+                        <Link to={"https://github.com/Kentliel/React-Countries"} target='_blank'><div className='flex flex-col justify-center'>
                             <h3 className='font-Playfair Display text-3xl font-bold leading-normal tracking-[0.3px]'>Countries Wiki</h3>
                             <p className='font-Poppins text-xl font-medium leading-normal tracking-[0.3px]'>React</p>
                         </div></Link>
                     </section>
                     <section className='flex gap-2 w-[490px] h-[176px] rounded-[25px] justify-center items-center bg-[#8C8FA0] hover:bg-[#E9EDF0]'>
-                        <Link to={"https://github.com/Kentliel/React-Context-Exercise2"}><img className='w-[90px] h-[90px] rounded overflow-scroll transition duration-300 ease-in-out hover:scale-110 hover:shadow-lg' src="https://i.imgur.com/mxcTTof.png" alt="pokemonApp" /></Link>
-                        <Link to={"https://github.com/Kentliel/React-Context-Exercise2"}><div className='flex flex-col justify-center'>
+                        <Link to={"https://github.com/Kentliel/React-Context-Exercise2"} target='_blank'><img className='w-[90px] h-[90px] rounded overflow-scroll transition duration-300 ease-in-out hover:scale-110 hover:shadow-lg' src="https://i.imgur.com/mxcTTof.png" alt="pokemonApp" /></Link>
+                        <Link to={"https://github.com/Kentliel/React-Context-Exercise2"} target='_blank'><div className='flex flex-col justify-center'>
                             <h3 className='font-Playfair Display text-3xl font-bold leading-normal tracking-[0.3px]'>Pokemon App</h3>
                             <p className='font-Poppins text-xl font-medium leading-normal tracking-[0.3px]'>React</p>
                         </div></Link>
